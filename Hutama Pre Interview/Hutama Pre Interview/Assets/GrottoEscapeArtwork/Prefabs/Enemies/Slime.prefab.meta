@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d18410ab8cbd4578a742e355c0a7d65
+timeCreated: 1453397690
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54254
+  packageName: Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/GrottoEscapeArtwork/Prefabs/Enemies/Slime.prefab
+  uploadId: 99054

@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Cc]osmosAutosustainedGenerated/
+[Ex]ited/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Vv]R/
+
+# Visual Studio cache
+.vs/
+*.userprefs
+*.csproj
+*.sln
+*.suo

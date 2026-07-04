@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce191aaa2126e4e288a3428623677011
+timeCreated: 1453397900
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54254
+  packageName: Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/GrottoEscapeArtwork/Animations/Misc/fire-02.controller
+  uploadId: 99054

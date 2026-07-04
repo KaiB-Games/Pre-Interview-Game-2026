@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4645f9d3fee224118932361a9be1f994
+timeCreated: 1453397617
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54254
+  packageName: Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/GrottoEscapeArtwork/Animations/Enemies/SkeletonWalkAnimation.anim
+  uploadId: 99054

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3fc7fa677fcd4e259f0cce45edaa601
+timeCreated: 1453397460
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54254
+  packageName: Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/GrottoEscapeArtwork/Animations/Enemies/eye-fly-02.controller
+  uploadId: 99054

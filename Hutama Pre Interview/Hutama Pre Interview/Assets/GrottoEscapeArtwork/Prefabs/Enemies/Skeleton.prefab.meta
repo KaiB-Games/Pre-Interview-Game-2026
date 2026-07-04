@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2b4c47ac718d448f844f494edb80e6a
+timeCreated: 1453397624
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54254
+  packageName: Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/GrottoEscapeArtwork/Prefabs/Enemies/Skeleton.prefab
+  uploadId: 99054

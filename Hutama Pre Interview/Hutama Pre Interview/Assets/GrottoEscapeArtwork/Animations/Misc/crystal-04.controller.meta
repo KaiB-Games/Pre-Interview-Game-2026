@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58628f34f95454ef4b66490543caba0a
+timeCreated: 1453397762
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54254
+  packageName: Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/GrottoEscapeArtwork/Animations/Misc/crystal-04.controller
+  uploadId: 99054

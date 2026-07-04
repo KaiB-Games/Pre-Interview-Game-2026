@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8db9cd675455e45b39862c1ad34c6686
+timeCreated: 1453397573
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54254
+  packageName: Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/GrottoEscapeArtwork/Animations/Enemies/ghost-fly-03.controller
+  uploadId: 99054

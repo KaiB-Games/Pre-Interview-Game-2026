@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97f7957f96e56496fb22d8dca29fe59a
+timeCreated: 1453397001
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54254
+  packageName: Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/GrottoEscapeArtwork/Animations/Player/PlayerShootAnimation.anim
+  uploadId: 99054
