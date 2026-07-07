@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 9cfd7767666e8494faa126e0630add54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1569829281090046278
+    second: LVL5_SpriteSheet_0
+  - first:
+      213: -1590808636772634213
+    second: LVL5_SpriteSheet_1
+  - first:
+      213: 8944776941818253518
+    second: LVL5_SpriteSheet_2
+  - first:
+      213: -6898222609301198660
+    second: LVL5_SpriteSheet_3
+  - first:
+      213: -1161798623373739776
+    second: LVL5_SpriteSheet_4
+  - first:
+      213: 2535099285238990403
+    second: LVL5_SpriteSheet_5
+  - first:
+      213: 3081911434264964265
+    second: LVL5_SpriteSheet_6
+  - first:
+      213: -6897676990755428005
+    second: LVL5_SpriteSheet_7
+  - first:
+      213: -2256120484152860732
+    second: LVL5_SpriteSheet_8
+  - first:
+      213: -6117682877430054887
+    second: LVL5_SpriteSheet_9
+  - first:
+      213: -7850696309914932014
+    second: LVL5_SpriteSheet_10
+  - first:
+      213: -3267171592637624822
+    second: LVL5_SpriteSheet_11
+  - first:
+      213: 537333483506962308
+    second: LVL5_SpriteSheet_12
+  - first:
+      213: 2199777721426406308
+    second: LVL5_SpriteSheet_13
+  - first:
+      213: 9036907376441029386
+    second: LVL5_SpriteSheet_14
+  - first:
+      213: -3701642882662001650
+    second: LVL5_SpriteSheet_15
+  - first:
+      213: 877234288906241511
+    second: LVL5_SpriteSheet_16
+  - first:
+      213: -8452842269021077074
+    second: LVL5_SpriteSheet_17
+  - first:
+      213: 716918031165724448
+    second: LVL5_SpriteSheet_18
+  - first:
+      213: -2291383398053805943
+    second: LVL5_SpriteSheet_19
+  - first:
+      213: -2845644110080334365
+    second: LVL5_SpriteSheet_20
+  - first:
+      213: 2492120945903769458
+    second: LVL5_SpriteSheet_21
+  - first:
+      213: -2494020801209753534
+    second: LVL5_SpriteSheet_22
+  - first:
+      213: 4992001663502931273
+    second: LVL5_SpriteSheet_23
+  - first:
+      213: -7432928494954931810
+    second: LVL5_SpriteSheet_24
+  - first:
+      213: -49175148813532673
+    second: LVL5_SpriteSheet_25
+  - first:
+      213: -5575478272065566148
+    second: LVL5_SpriteSheet_26
+  - first:
+      213: -411181502001990341
+    second: LVL5_SpriteSheet_27
+  - first:
+      213: 4645133940026720588
+    second: LVL5_SpriteSheet_28
+  - first:
+      213: 6398668010004444888
+    second: LVL5_SpriteSheet_29
+  - first:
+      213: -8173949618460244136
+    second: LVL5_SpriteSheet_30
+  - first:
+      213: -4595339385997984536
+    second: LVL5_SpriteSheet_31
+  - first:
+      213: -2399033045601996603
+    second: LVL5_SpriteSheet_32
+  - first:
+      213: 378569608640571488
+    second: LVL5_SpriteSheet_33
+  - first:
+      213: -7039803279031862855
+    second: LVL5_SpriteSheet_34
+  - first:
+      213: -8084172099578181515
+    second: LVL5_SpriteSheet_35
+  - first:
+      213: -23335487277976427
+    second: LVL5_SpriteSheet_36
+  - first:
+      213: 1762056282965659346
+    second: LVL5_SpriteSheet_37
+  - first:
+      213: 501229448536299222
+    second: LVL5_SpriteSheet_38
+  - first:
+      213: 2451657226230952652
+    second: LVL5_SpriteSheet_39
+  - first:
+      213: -816683410056927662
+    second: LVL5_SpriteSheet_40
+  - first:
+      213: -7298849339159910289
+    second: LVL5_SpriteSheet_41
+  - first:
+      213: 2332990300538652168
+    second: LVL5_SpriteSheet_42
+  - first:
+      213: -4803439110917129594
+    second: LVL5_SpriteSheet_43
+  - first:
+      213: 3704146358724847935
+    second: LVL5_SpriteSheet_44
+  - first:
+      213: -932407883060733626
+    second: LVL5_SpriteSheet_45
+  - first:
+      213: 4577699214656875437
+    second: LVL5_SpriteSheet_46
+  - first:
+      213: -1951235763651876889
+    second: LVL5_SpriteSheet_47
+  - first:
+      213: 5874156087009115953
+    second: LVL5_SpriteSheet_48
+  - first:
+      213: -7803832694139148415
+    second: LVL5_SpriteSheet_49
+  - first:
+      213: 6733273219968145112
+    second: LVL5_SpriteSheet_50
+  - first:
+      213: 8536187648884368688
+    second: LVL5_SpriteSheet_51
+  - first:
+      213: -3110074659909664720
+    second: LVL5_SpriteSheet_52
+  - first:
+      213: 9169943428744423811
+    second: LVL5_SpriteSheet_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 566
+        width: 555
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6fe9e0698d63ae0800000000000000
+      internalID: -1569829281090046278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 568
+        width: 542
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093549be4670efe0800000000000000
+      internalID: -1161798623373739776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 568
+        width: 544
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf16938f56a0b0e0800000000000000
+      internalID: -2256120484152860732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 565
+        width: 543
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f0b52d4fdf47700800000000000000
+      internalID: 537333483506962308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 567
+        width: 549
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35b5fa3a903b4af0800000000000000
+      internalID: -411181502001990341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 542
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39e9d3ec75c76330800000000000000
+      internalID: 3704146358724847935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 18
+        width: 540
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab253a9e21478f30800000000000000
+      internalID: 4577699214656875437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 19
+        width: 545
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f7069a6d1358150800000000000000
+      internalID: 5874156087009115953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 17
+        width: 546
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d61ad3b154617d50800000000000000
+      internalID: 6733273219968145112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL5_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 12
+        width: 545
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030042f139bc6d4d0800000000000000
+      internalID: -3110074659909664720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2cb86f55c06f65249b6c7d3a3dcd6894
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LVL5_SpriteSheet_0: -1569829281090046278
+      LVL5_SpriteSheet_1: -1590808636772634213
+      LVL5_SpriteSheet_10: -7850696309914932014
+      LVL5_SpriteSheet_11: -3267171592637624822
+      LVL5_SpriteSheet_12: 537333483506962308
+      LVL5_SpriteSheet_13: 2199777721426406308
+      LVL5_SpriteSheet_14: 9036907376441029386
+      LVL5_SpriteSheet_15: -3701642882662001650
+      LVL5_SpriteSheet_16: 877234288906241511
+      LVL5_SpriteSheet_17: -8452842269021077074
+      LVL5_SpriteSheet_18: 716918031165724448
+      LVL5_SpriteSheet_19: -2291383398053805943
+      LVL5_SpriteSheet_2: 8944776941818253518
+      LVL5_SpriteSheet_20: -2845644110080334365
+      LVL5_SpriteSheet_21: 2492120945903769458
+      LVL5_SpriteSheet_22: -2494020801209753534
+      LVL5_SpriteSheet_23: 4992001663502931273
+      LVL5_SpriteSheet_24: -7432928494954931810
+      LVL5_SpriteSheet_25: -49175148813532673
+      LVL5_SpriteSheet_26: -5575478272065566148
+      LVL5_SpriteSheet_27: -411181502001990341
+      LVL5_SpriteSheet_28: 4645133940026720588
+      LVL5_SpriteSheet_29: 6398668010004444888
+      LVL5_SpriteSheet_3: -6898222609301198660
+      LVL5_SpriteSheet_30: -8173949618460244136
+      LVL5_SpriteSheet_31: -4595339385997984536
+      LVL5_SpriteSheet_32: -2399033045601996603
+      LVL5_SpriteSheet_33: 378569608640571488
+      LVL5_SpriteSheet_34: -7039803279031862855
+      LVL5_SpriteSheet_35: -8084172099578181515
+      LVL5_SpriteSheet_36: -23335487277976427
+      LVL5_SpriteSheet_37: 1762056282965659346
+      LVL5_SpriteSheet_38: 501229448536299222
+      LVL5_SpriteSheet_39: 2451657226230952652
+      LVL5_SpriteSheet_4: -1161798623373739776
+      LVL5_SpriteSheet_40: -816683410056927662
+      LVL5_SpriteSheet_41: -7298849339159910289
+      LVL5_SpriteSheet_42: 2332990300538652168
+      LVL5_SpriteSheet_43: -4803439110917129594
+      LVL5_SpriteSheet_44: 3704146358724847935
+      LVL5_SpriteSheet_45: -932407883060733626
+      LVL5_SpriteSheet_46: 4577699214656875437
+      LVL5_SpriteSheet_47: -1951235763651876889
+      LVL5_SpriteSheet_48: 5874156087009115953
+      LVL5_SpriteSheet_49: -7803832694139148415
+      LVL5_SpriteSheet_5: 2535099285238990403
+      LVL5_SpriteSheet_50: 6733273219968145112
+      LVL5_SpriteSheet_51: 8536187648884368688
+      LVL5_SpriteSheet_52: -3110074659909664720
+      LVL5_SpriteSheet_53: 9169943428744423811
+      LVL5_SpriteSheet_6: 3081911434264964265
+      LVL5_SpriteSheet_7: -6897676990755428005
+      LVL5_SpriteSheet_8: -2256120484152860732
+      LVL5_SpriteSheet_9: -6117682877430054887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

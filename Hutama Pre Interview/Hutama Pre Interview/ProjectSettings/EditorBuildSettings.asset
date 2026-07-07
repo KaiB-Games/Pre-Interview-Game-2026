@@ -6,11 +6,71 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Overworld.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Hutama Pre Interview/Scenes/IntroBase.unity
+    guid: c8f5d47a81e716142815dcffb142afbd
   - enabled: 1
-    path: Assets/Scenes/CombatScene.unity
+    path: Assets/Hutama Pre Interview/Scenes/Overworld 1.unity
+    guid: 6b9085548dceeb04cbbcc88cc1a732be
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/CombatScene 1.unity
     guid: a682e1118db0bc24d8deae8c27945853
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/Overworld 2.unity
+    guid: 3f483a73f89997244b216b09f2144428
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/CombatScene 2.unity
+    guid: fd45f9515423e6b49a841bfc925d616c
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/Overworld 3.unity
+    guid: 4aebeb8c877048449bfe11b415e1d635
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/CombatScene 3.unity
+    guid: 51bbdd4121fec524984782b2f7b6f2e4
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/Overworld 4.unity
+    guid: 540a58f6a48e7e44f9341b1e3bc65a9d
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/CombatScene 4.unity
+    guid: 57e8906996e40a847b87864bdb175208
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/Overworld 5.unity
+    guid: 5de709f9dab65a74c900d9f32a65859e
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/CombatScene 5.unity
+    guid: 5b70f76a97d9ce84894aaa5206cd7ed5
+  - enabled: 1
+    path: Assets/Hutama Pre Interview/Scenes/EndBase.unity
+    guid: de4d66ecae405604cb1a63a7454a16e4
+  - enabled: 0
+    path: Assets/Hutama Pre Interview/Scenes/IntroScene.unity
+    guid: a3a55fe7efc662945a493c999705252f
+  - enabled: 0
+    path: Assets/Scenes/Overworld 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Overworld 2.unity
+    guid: df6b064843b800e448a2250e86d6828b
+  - enabled: 0
+    path: Assets/Scenes/CombatScene 2.unity
+    guid: 6f1feee65d356b9408947d7c0d9ef3d7
+  - enabled: 0
+    path: Assets/Scenes/Overworld 3.unity
+    guid: c14772b19125033498a266e23c149bac
+  - enabled: 0
+    path: Assets/Scenes/CombatScene 3.unity
+    guid: 3c687af34497d8f42b73bb4fa3bcfd28
+  - enabled: 0
+    path: Assets/Scenes/Overworld 4.unity
+    guid: a5500d5a03392d34bb8c32b56e9b50a2
+  - enabled: 0
+    path: Assets/Scenes/CombatScene 4.unity
+    guid: ad81fc66dd66aa44185a4df465e6d256
+  - enabled: 0
+    path: Assets/Scenes/Overworld 5.unity
+    guid: c76f96eb7b8520e4d95823290cb3fad3
+  - enabled: 0
+    path: Assets/Scenes/CombatScene 5.unity
+    guid: befb291403bae264e98a81837cbc3a2d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
